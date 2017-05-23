@@ -3,6 +3,9 @@
 Notable changes to Draft.js will be documented in this file.
 
 Changes to `src` are live in production on facebook.com at the time of release.
+## 0.10.0-cvent
+###Fixed
+ * Selection None error in Chrome 58
 
 ## 0.10.0 (Dec. 16, 2016)
 
