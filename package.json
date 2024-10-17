@@ -62,7 +62,7 @@
     "gulp-header": "1.8.2",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.2.0",
-    "gulp-util": "^3.0.6",
+    "gulp-util": "^3.0.8",
     "jest": "^15.1.1",
     "react": "^15.0.0-rc.1",
     "react-dom": "^15.0.0-rc.1",
