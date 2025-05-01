@@ -68,7 +68,7 @@
     "react-dom": "^15.0.0-rc.1",
     "react-test-renderer": "^15.5.4",
     "run-sequence": "^1.1.2",
-    "through2": "^2.0.1",
+    "through2": "^2.0.5",
     "vinyl-buffer": "^1.0.0",
     "webpack-stream": "^3.0.0"
   },
